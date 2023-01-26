@@ -21,3 +21,7 @@ I am a new coder!
 
 ### 🧱 Loves video games
 I **love** to play video games
+
+### Projects Denied
+Installer - RedditVideoMakerBot
+CAD - RIVRPCAD (Denied after 500 lines of code :( )
