@@ -25,4 +25,4 @@ Installer - RedditVideoMakerBot
 CAD - RIVRPCAD (Denied after 500 lines of code :( )
 
 # Stats
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingithub
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=fingithub&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
