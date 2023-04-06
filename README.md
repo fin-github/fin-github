@@ -23,3 +23,6 @@ I **love** to play video games
 ### Projects Denied
 Installer - RedditVideoMakerBot
 CAD - RIVRPCAD (Denied after 500 lines of code :( )
+
+# Stats
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingithub
