@@ -9,3 +9,6 @@
         <li>Swift</li>
     </ul>
 </div>
+i spend too much time coding
+
+I LOVE MAKING DISCORD BOTS <3333
