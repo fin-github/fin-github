@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hobbies</h1>
     <ul>
-        <li>Python</li>
+        <li>Python (favorite )</li>
         <li>JavaScript</li>
         <li>Typescript</li>
         <li>HTML</li>
