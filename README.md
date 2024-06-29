@@ -6,7 +6,6 @@
         <li>Typescript</li>
         <li>HTML</li>
         <li>CSS</li>
-        <li>Swift</li>
     </ul>
 </div>
 i spend too much time coding
