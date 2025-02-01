@@ -1,1 +1,1 @@
-i code stuff.  (cole is secretly gay)
+i code stuff.
