@@ -1,1 +1,14 @@
-i code stuff.
+# 👍- About Me
+👋  Hello! I am a developer that works with 🐍Python, and other high level languages.
+
+✏️  I specialize in API testing and developing, along with 🤖 automation.
+
+# 📜Projects
+
+## 🤖ERLC.py
+
+❗  ERLC.py is a library that assists with communicating to the [ER:LC](https://www.roblox.com/games/2534724415/Emergency-Response-Liberty-County) [API](https://apidocs.policeroleplay.community/)
+ℹ️  The project contains coverage for most of the API endpoints, and assists with automation.
+
+You can find the project [here](https://github.com/fin-github/erlcpy).
+
