@@ -12,6 +12,10 @@
 
 You can find the project [here](https://github.com/fin-github/erlcpy).
 
+## ⭐StarWave
+❗  StarWave is an application which automatically swaps out selected cache files for Roblox, into whatever the user wants.
+ℹ️  Join us: https://discord.gg/cbJCPRxk4D
+
 # ⭐Achievements
 - 🛜First Modular (non-json delivering) ER:LC API package
 - 🤝Contributor to Roblox Asset Delivery modification
