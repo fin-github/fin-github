@@ -12,3 +12,8 @@
 
 You can find the project [here](https://github.com/fin-github/erlcpy).
 
+# ⭐Achievements
+- 🛜First Modular (non-json delivering) ER:LC API package
+- 🤝Contributor to Roblox Asset Delivery modification
+- 🚨5 Years of Python
+- 🚨1 Year of C#
